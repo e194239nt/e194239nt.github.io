@@ -1,0 +1,71 @@
+div.title{
+    width: 1000px;
+    height:40px;
+    background-color:gray;
+    text-align:left;
+   font-size:30px;
+   
+    margin-bottom: 20px;
+}
+div.haikei{
+    font-size:0px;
+    background-color:aqua;
+    height:320px;
+    width:1000px;
+}
+div.menuhaikei{
+    display: inline-block;
+    font-size:0px;
+    vertical-align: top;
+    background-color: gray;
+    height:320px;
+    width:250px;
+}
+div.haikei2{
+    display: inline-block;
+    font-size:0px;
+    vertical-align: top;
+    background-color: gray;
+    height:320px;
+    width:700px;
+   margin-left: 50px;
+}
+div.menu{height:100px;
+    width:250px;
+ background-color:red;
+font-size:30px;
+    text-align: center;
+}
+div.menu2{height:100px;
+    width:250px;
+ background-color:red;
+font-size:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  
+}
+div.footer{
+    width: 1000px;
+    height:40px;
+    background-color:cadetblue;
+    text-align:right;
+    font-size:30px;
+    font-family: "impact";
+     margin-top: 20px;
+}
+div.image{
+    display:inline-block;
+    width: 700px;
+    height:300px;
+    background-color:black;
+}
+div.bunsyo{
+     width: 700px;
+    height:20px;
+    background-color:blue;
+       text-align:center;
+    font-size:17px;
+    font-family: "impact";
+color: white;
+}
