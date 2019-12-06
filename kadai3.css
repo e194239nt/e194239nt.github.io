@@ -1,0 +1,11 @@
+
+h1{color:red;
+   font-weight:bold;
+   text-align:center;
+    background-color: black;
+}
+h2{color:brown}
+h3{color:crimson}
+body{
+    background-image : url("../images/haikei.jfif");
+}

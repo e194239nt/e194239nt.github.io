@@ -1,0 +1,24 @@
+h1#t1{color:white;
+   font-weight:bold;
+   text-align:center;
+    background-color: black;
+}
+h1#ri{color:red;
+   font-weight:bold;
+   text-align:center;
+    background-color: aliceblue;
+}
+h2#s1{color:fuchsia;
+   font-weight:bold;
+   text-align:center;
+    background-color: gray;
+}
+h2#s2{color:yellow;
+   font-weight:bold;
+   text-align:center;
+    background-color: magenta;
+}
+
+body{
+    background-image : url("../images/haikei.jfif");
+}
