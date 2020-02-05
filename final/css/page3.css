@@ -1,0 +1,44 @@
+div.aaa{
+     width: 1000px;
+     font-size:0px;
+    margin: auto;
+    
+    background-color:black;
+}
+div.title{
+    width: 1000px;
+    height:40px;
+    background-color:gray;auto
+    text-align:left;
+   font-size:30px;
+   margin-left: 10px;
+    margin-bottom: 20px;
+}
+div.menu{ text-align: center;
+}
+div.menu2{height:100px;
+    width:1000px;
+ background-color:red;
+font-size:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*div.haikei2{
+    display: inline-block;
+    font-size:0px;
+    vertical-align: top;
+    background-color: gray;
+    height:320px;
+    width:700px;
+   margin-left: 50px;
+}*/
+div.menuhaikei{
+    display: inline-block;
+    font-size:0px;
+    vertical-align: top;
+    background-color: gray;
+    height:360px;
+    width:1000px;
+}
